@@ -1,3 +1,3 @@
 print('Geef een willekeurige tekst')
-tekst = input ()
+tekst = input()
 print (tekst + '!' * 1000)
